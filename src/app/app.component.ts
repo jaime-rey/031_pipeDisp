@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pipeDisp';
+  dividendo = 10;
+  divisor = "2";
 }
